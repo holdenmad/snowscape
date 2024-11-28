@@ -44,7 +44,7 @@ const terrainTexture = loader.load("/public/snow_field_aerial_col_4k.jpg");
 // texture.colorSpace = THREE.SRGBColorSpace;
 
 // Skybox
-const bgTexture = loader.load("/public/kloofendal_48d_partly_cloudy_puresky_4k.jpg", () => {
+const bgTexture = loader.load("/public/snowy_park_01_4K.jpg", () => {
   bgTexture.mapping = THREE.EquirectangularReflectionMapping;
   bgTexture.colorSpace = THREE.SRGBColorSpace;
   scene.background = bgTexture;
@@ -63,7 +63,7 @@ const planeMat = new THREE.MeshStandardMaterial({
 });
 
 const plane = new THREE.Mesh(planeGeo, planeMat);
-scene.add(plane);
+// scene.add(plane);
 
 plane.rotation.x = -0.5 * Math.PI;
 plane.position.y = -20;
@@ -78,7 +78,7 @@ gui.add(plane.rotation, "x").min(0).max(100);
 // plane.position.y = -50;
 
 const gridHelper = new THREE.GridHelper(100);
-scene.add(gridHelper);
+// scene.add(gridHelper);
 gridHelper.position.y = -50;
 
 //   const renderer = new THREE.WebGLRenderer();
@@ -148,7 +148,7 @@ const boxDepth = 1;
 const cGeometry = new THREE.BoxGeometry(boxWidth, boxHeight, boxDepth);
 const cMaterial = new THREE.MeshToonMaterial({ color: 0x00ff00 });
 const cube = new THREE.Mesh(cGeometry, cMaterial);
-// scene.add(cube);
+scene.add(cube);
 
 // Sphere
 const sGeometry = new THREE.SphereGeometry(5, 32, 16);
@@ -157,7 +157,7 @@ const sMaterial = new THREE.MeshPhongMaterial({
   map: ballTexture,
 });
 const sphere = new THREE.Mesh(sGeometry, sMaterial);
-scene.add(sphere);
+// scene.add(sphere);
 
 sphere.position.x = 5;
 sphere.position.z = -10;
