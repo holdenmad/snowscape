@@ -1,6 +1,6 @@
 # Snowscape in Three.js
 
-[!Cube in Snowscape Screenshot](./public/Screenshot%202024-11-28%20232912.png "Snowscape with Cube")
+![Cube](./public/cube_screenshot.png "Cube in a snowscape")
 
 This is just a little playing around with Three.js to create a landscape with terrain. 
 
