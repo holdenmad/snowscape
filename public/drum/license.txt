@@ -1,0 +1,11 @@
+Model Information:
+* title:	Drum
+* source:	https://sketchfab.com/3d-models/drum-d0ffb69a36fa46a2bed2bdfa603a5a69
+* author:	3d_ak (https://sketchfab.com/3d_ak)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Drum" (https://sketchfab.com/3d-models/drum-d0ffb69a36fa46a2bed2bdfa603a5a69) by 3d_ak (https://sketchfab.com/3d_ak) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

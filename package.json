@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.168.0",
+    "three.terrain.js": "^2.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.5"
+  }
+}

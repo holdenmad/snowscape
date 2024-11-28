@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ojibwe Snowshoes
+* source:	https://sketchfab.com/3d-models/ojibwe-snowshoes-871d7adf536b45c5b2c27f7e2f15e33e
+* author:	John Fino (tauricity) (https://sketchfab.com/tauricity)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ojibwe Snowshoes" (https://sketchfab.com/3d-models/ojibwe-snowshoes-871d7adf536b45c5b2c27f7e2f15e33e) by John Fino (tauricity) (https://sketchfab.com/tauricity) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
